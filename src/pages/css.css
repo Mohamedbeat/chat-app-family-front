@@ -1,0 +1,7 @@
+.menuhide{
+    position:absolute;
+    display:flex;
+    width:100%;
+    transition:0.2s all;
+    left:-100%;
+}
